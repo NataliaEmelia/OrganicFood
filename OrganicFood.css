@@ -548,12 +548,12 @@ a {
     align-items: center;
     color: #222222;
     text-decoration: none;
-    background: url(./OrganicFoodsvg/veg-fru_arrow.svg) no-repeat 95% center;
+    background: url(./Organicfoodsvg/veg-fru_arrow.svg) no-repeat 95% center;
     transition: .2s all;
     padding: 25px 112px 25px 10px;
 }
 .fruveg__card-order:hover, .fruveg__card-order:focus {
-    background: url(./OrganicFoodsvg/veg-fru_arrow.svg) no-repeat right center;
+    background: url(./Organicfoodsvg/veg-fru_arrow.svg) no-repeat right center;
 }
 .fruveg-pic-melientha {
     position: absolute;
