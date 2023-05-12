@@ -1781,6 +1781,7 @@ explor__left-pic-big {
     display: none;
 }
 .fruveg-pic-big-mob {
+    display: block;
     max-width: 500px;
     vertical-align: middle;
 }
