@@ -577,6 +577,9 @@ a {
     width: 100%;
     height: auto;
 }
+.fruveg-pic-big-mob {
+    display: none;
+}
 .fruveg__bottom-stat-right {
     text-align: center;
 }
@@ -1774,6 +1777,13 @@ explor__left-pic-big {
         text-align: center;
         align-items: center;
     }
+.fruveg-pic-big {
+    display: none;
+}
+.fruveg-pic-big-mob {
+    max-width: 500px;
+    vertical-align: middle;
+}
     .thebest__top {
         text-align: center;
     }
