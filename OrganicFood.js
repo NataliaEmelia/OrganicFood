@@ -56,6 +56,4 @@ var imageCache = new function() {
   };
 }();
 
-var s = ["https://upload.wikimedia.org/wikipedia/commons/8/88/Half-Life_Black_Mesa_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg", "https://4hands.ru/wp-content/uploads/2018/04/viber-logo-256x256.png"];
-imageCache.pushArray(s, () => console.log('when one of all images has been loaded'), () => console.log('when all images have been loaded'));
 
